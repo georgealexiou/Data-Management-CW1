@@ -1,11 +1,5 @@
 #!/bin/bash
 
-#loop that goes through all the files in the given directory
-
-
-#grep sort sed
-
-#awk
 cd "$1" || exit 1
 : ' By using the above command we navigate to the directory specified
 	by the argument (filename) passed to the script when running it from
