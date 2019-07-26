@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.12)  11 MAR 2019 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.12)  12 MAR 2019 07:02
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**main.tex
-(/compile/main.tex
+**report.tex
+(/compile/report.tex
 LaTeX2e <2017-04-15>
 Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -407,15 +407,15 @@ LaTeX Font Info:    ... okay on input line 14.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* h-part:(L,W,R)=(108.405pt, 397.485pt, 108.405pt)
+* v-part:(T,H,B)=(108.405pt, 578.15999pt, 108.405pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=469.75502pt
-* \textheight=650.43001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
+* \textwidth=397.485pt
+* \textheight=578.15999pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-0.86499pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -442,26 +442,41 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (34.244pt too wide) in paragraph at lines 29--30
+Overfull \hbox (56.11412pt too wide) in paragraph at lines 29--30
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][] 
  []
 
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 75.
+[1]
+Overfull \hbox (30.91417pt too wide) in paragraph at lines 67--68
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (30.91417pt too wide) in paragraph at lines 68--69
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (43.51414pt too wide) in paragraph at lines 69--70
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 74.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 75.
-[1] [2] [3] (/compile/output.aux) ) 
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 74.
+[2] [3] [4] (/compile/output.aux) ) 
 Here is how much of TeX's memory you used:
  2675 strings out of 492990
- 34109 string characters out of 6132621
- 111637 words of memory out of 5000000
+ 34115 string characters out of 6132621
+ 109648 words of memory out of 5000000
  6254 multiletter control sequences out of 15000+600000
  8270 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 26i,6n,32p,752b,981s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,6n,32p,754b,1522s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
@@ -471,10 +486,10 @@ blic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt12.pfb>
-Output written on /compile/output.pdf (4 pages, 106132 bytes).
+Output written on /compile/output.pdf (5 pages, 106705 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
